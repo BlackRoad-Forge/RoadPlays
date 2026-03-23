@@ -1,3 +1,20 @@
+# RoadPlays
+
+> Chat controls games — Twitch/YouTube integration
+
+Part of the [BlackRoad OS](https://blackroad.io) ecosystem — 18 orgs, 20 domains, 200 agents.
+
+Forked from [`DougDougGithub/TwitchPlays`](https://github.com/DougDougGithub/TwitchPlays) and enhanced for the BlackRoad sovereign stack.
+
+| | |
+|---|---|
+| **Language** | Multiple |
+| **Organization** | [BlackRoad-Forge](https://github.com/BlackRoad-Forge) |
+| **License** | See upstream |
+| **Homepage** | [blackroad.io](https://blackroad.io) |
+
+---
+
 # TwitchPlays
 These are the three Python files I use that allows Twitch Chat or Youtube Chat to control your keyboard or mouse to play a game. You are welcome to use or adapt this code for your own content.
 
